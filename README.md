@@ -59,7 +59,7 @@ The following metrics are calculated for evaluation:
 
 The automated evaluation metrics were applied to the initial set of questions and answers, yielding the following results:
 
-- **Answer Relevance**: 0.13
+- **Answer Relevance**: 0.83
 - **Faithfulness**: 0.60
 - **Information Integration**: 0.81
 - **Entity Recall**: 0.67
