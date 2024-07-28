@@ -86,7 +86,3 @@ Here's an example of the evaluation results:
 | Why is Ron calling Regency limousine? | His limo is 30 minutes late                                         | Ron is calling Regency limousine because his daughter's limo for her senior prom is 30 minutes late and he wants to speak to someone about it. | 1.0       | 1.0    | High      | 1.0           | High          | 1.0             | Low     |
 | What did Steve Simmons want to do with the blender? | He wants to return a recalled blender and get a different model.   | He wanted to return it and get a different model due to a recall on the current model.                 | 1.0       | 1.0    | High      | 1.0           | High          | 1.0             | Low     |
 | Why is Jeff Matthews complaining? | His neighbors are being loud and disturbing his newborn baby.      | Jeff Matthews is complaining because his neighbors are being loud and disturbing his newborn baby's sleep. | 1.0       | 1.0    | High      | 1.0           | High          | 1.0             | Low     |
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
