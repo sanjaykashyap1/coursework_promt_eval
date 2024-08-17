@@ -1,6 +1,10 @@
 # Calculating and Reporting Metrics of the RAG Pipeline
 
+UPDATED VIDEO BASED ON TA FEEDBACK
+[![Demo Video](https://img.youtube.com/vi/V-VHoerykSs/0.jpg)](https://youtu.be/E-hOGjUR6tk)
+
 [![Demo Video](https://img.youtube.com/vi/V-VHoerykSs/0.jpg)](https://youtu.be/V-VHoerykSs)
+
 
 This project evaluates the performance of a transcript-based QA system by calculating various metrics and generating evaluation reports using OpenAI's GPT-4. The evaluation metrics include context precision, recall, relevance, entity recall, noise robustness, faithfulness, answer relevance, information integration, counterfactual robustness, negative rejection, and latency.
 
