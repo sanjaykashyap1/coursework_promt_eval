@@ -1,6 +1,8 @@
 # Calculating and Reporting Metrics of the RAG Pipeline
 
 UPDATED VIDEO BASED ON TA FEEDBACK
+
+
 [![Demo Video](https://img.youtube.com/vi/V-VHoerykSs/0.jpg)](https://youtu.be/E-hOGjUR6tk)
 
 [![Demo Video](https://img.youtube.com/vi/V-VHoerykSs/0.jpg)](https://youtu.be/V-VHoerykSs)
